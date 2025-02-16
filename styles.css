@@ -1,0 +1,18 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: pink;
+}
+
+body h1 {
+    font-size: 30px;
+}
+
+body p {
+    font-size: 30px;
+}
+
+.EM3 {
+    display: flex;
+    border: 2px solid black;
+    justify-content: center;
+}
